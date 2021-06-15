@@ -1,0 +1,2 @@
+myframe.Registration
+myframe.MyFrame
